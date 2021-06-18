@@ -1,0 +1,19 @@
+body{
+    color:#57737A;
+    background:#A30B37;
+}
+.heading{
+    width:80%;
+    font-size: 40px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy  {
+color:#a54226;
+}
+b{
+    font-size:25px;
+}
+#camera{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
